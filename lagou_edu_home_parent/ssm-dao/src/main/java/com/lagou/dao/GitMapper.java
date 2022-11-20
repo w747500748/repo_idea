@@ -7,4 +7,8 @@ public interface GitMapper {
 
     public void update();
 
+
+
+    public void testGit();
+
 }
